@@ -52,9 +52,9 @@ This repository tracks top commercial hardware, pro controllers with Hall Effect
 
 ## 🔓 Open-Source Firmware & Software Projects
 
-*Sorted by GitHub Star Count (Descending).*
+*Sorted by GitHub Stars_Count (Descending).*
 
-| Open-Source Project 🛠️ | Description 💡 | GitHub Stars ⭐️ |
+| Open-Source Project 🛠️ | Description 💡 | GitHub_Stars ⭐️ |
 |:---|:---|:---|
 | **[DS4Windows](https://github.com/Ryochan7/DS4Windows)** | Windows driver & remapping tool to convert DualShock 4 & DualSense controllers into Xbox 360 gamepads with gyro & touchpad support. | [![Stars](https://img.shields.io/github/stars/Ryochan7/DS4Windows?style=social&color=white)](https://github.com/Ryochan7/DS4Windows/stargazers) |
 | **[GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE)** | Multi-platform open-source gamepad firmware for Raspberry Pi Pico and RP2040 microcontrollers with sub-1ms input latency. | [![Stars](https://img.shields.io/github/stars/OpenStickCommunity/GP2040-CE?style=social&color=white)](https://github.com/OpenStickCommunity/GP2040-CE/stargazers) |
